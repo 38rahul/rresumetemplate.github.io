@@ -1,0 +1,22 @@
+/* body{
+    background-color: red;
+} */
+
+.head{
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+/* #cv-form{
+    display:none;
+} */
+#cv-template{
+    display:none;
+}
+.myimage{
+    /* border: 1px solid red; */
+    border-radius: 50%;
+    width: 200px;
+}
+.PerBackground{
+    background-color: rgb(94, 233, 221);
+}
